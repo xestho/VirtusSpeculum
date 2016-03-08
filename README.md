@@ -7,7 +7,7 @@ We found an awesome project called MagicMirror (http://michaelteeuw.nl/tagged/ma
 
 ##Introduction
 
-Stay tuned
+Stay tuned for more infos
 
 ##About
 
